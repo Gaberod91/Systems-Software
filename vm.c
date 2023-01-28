@@ -1,7 +1,3 @@
-//Gabriel Rodriguez
-//3823004
-//COP3402
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
