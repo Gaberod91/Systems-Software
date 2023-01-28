@@ -1,10 +1,3 @@
-/*
-COP 3402 Assignment 3  Fall 2022
-Jesse Cooley, Evan Naderi, Cody Macek, & Gabriel Rodriguez
-Parser and Code generator for PL/0 in C
-*/
-
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
